@@ -40,10 +40,10 @@ A concise guide to versioning systems with practical examples.
 
 ## Best Practices
 - Keep it consistent.
-- Use `CHANGELOG.md` for version details.
+- Use [`CHANGELOG.md`](https://keepachangelog.com/en/1.0.0/) for version details.
 - Prefix pre-releases: `v1.0.0-alpha`, `v1.0.0-beta`.
-- Automate: Tools like `semantic-release`.
-- Extension (VS Code): Tools like `AutoVersion`. 
+- Automate: Tools like [`semantic-release`](https://github.com/semantic-release/semantic-release).
+- Extension *(VS Code)*: Tools like [`AutoVersion`](https://github.com/UnTanukii/AutoVersion). 
 - Tag in Git:
   ```bash
   git tag -a v1.0.0 -m "Version 1.0.0"
