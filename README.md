@@ -12,7 +12,12 @@ This repository defines coding norms, standards, and best practices to ensure co
 
 ## Contributing
 
-Interested in contributing? Please read the [contributing](CONTRIBUTING.md) document for guidelines.
+If you find this repository useful, feel free to star it! ⭐
+
+If you'd like to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) document for guidelines.
+
+### Personal Organization
+This repository helps me stay organized for both my public and private projects. While it's not perfect, it allows me to define consistent practices and ensure high-quality standards across all my work.
 
 ## Changelog
 
